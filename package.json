@@ -47,7 +47,7 @@
     "grunt-contrib-csslint": "0.5.x",
     "grunt-contrib-less": "0.8.x",
     "grunt-lesslint": "0.13.x",
-    "handlebars": "^4.0.10",
+    "handlebars": "^4.7.7",
     "jasmine": "2.x.x",
     "joanna": "0.0.9",
     "load-grunt-parent-tasks": "0.1.1",
